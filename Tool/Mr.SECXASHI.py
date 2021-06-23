@@ -42,11 +42,11 @@ if Tool2 == "2" or Tool2 == "02":
     os.system("pip install nmap")
 if Tool2 == "3" or Tool2 == "03":
     os.system("pip install hydra")
-if Tool3 == "1" or Tool3 == "03"
+if Tool2 == "1" or Tool3 == "01"
     os.system("pip install Nmap")
-if Tool3 == "2" or Tool3 == "02"
+if Tool2 == "2" or Tool3 == "02"
     os.system("pip install Hydra")
-if Tool3 == "3" or Tool3 == "03"
+if Tool2 == "3" or Tool3 == "03"
     os.system("wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt")
 print("")
 print("")
